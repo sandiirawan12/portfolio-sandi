@@ -13,7 +13,7 @@ const Navbar = () => {
           <span style={{fontSize: '30px'}} className="font-bold ml-[10px] md:block text-gray-100">
             San
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-cyan-500 to-purple-500">
-              Dev
+              Dev~
             </span>
           </span>
         </a>

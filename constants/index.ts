@@ -158,6 +158,173 @@ export const Skill_data = [
   
 ];
 
+export const tool_masterdiskon = [
+  {
+    skill_name: "Java Script",
+    Image: "/js.png",
+    width: 65,
+    height: 65,
+  },
+  {
+    skill_name: "Tailwind Css",
+    Image: "/tailwind.png",
+    width: 80,
+    height: 80,
+  },
+  {
+    skill_name: "React",
+    Image: "/react.png",
+    width: 80,
+    height: 80,
+  },
+  {
+    skill_name: "Redux",
+    Image: "/redux.png",
+    width: 80,
+    height: 80,
+  },
+  {
+    skill_name: "Next js 13",
+    Image: "/next.png",
+    width: 80,
+    height: 80,
+  },
+  {
+    skill_name: "Node js",
+    Image: "/node-js.png",
+    width: 80,
+    height: 80,
+  },
+  {
+    skill_name: "Express js",
+    Image: "/express.png",
+    width: 80,
+    height: 80,
+  },
+  {
+    skill_name: "My SQL",
+    Image: "/mysql.png",
+    width: 70,
+    height: 70,
+  },
+  {
+    skill_name: "Figma",
+    Image: "/figma.png",
+    width: 50,
+    height: 50,
+  },
+  {
+    skill_name: "Goole Cloud",
+    Image: "/gcp.png",
+    width: 80,
+    height: 80,
+  },
+
+];
+
+export const tool_jajaid = [
+  {
+    skill_name: "Java Script",
+    Image: "/js.png",
+    width: 65,
+    height: 65,
+  },
+  {
+    skill_name: "React",
+    Image: "/react.png",
+    width: 80,
+    height: 80,
+  },
+  {
+    skill_name: "Vue Js",
+    Image: "/vuejs.png",
+    width: 80,
+    height: 80,
+  },
+  {
+    skill_name: "Nuxt Js",
+    Image: "/nuxt.png",
+    width: 80,
+    height: 80,
+  },
+  {
+    skill_name: "Node js",
+    Image: "/node-js.png",
+    width: 80,
+    height: 80,
+  },
+  {
+    skill_name: "Express js",
+    Image: "/express.png",
+    width: 80,
+    height: 80,
+  },
+  {
+    skill_name: "My SQL",
+    Image: "/mysql.png",
+    width: 70,
+    height: 70,
+  },
+  {
+    skill_name: "Figma",
+    Image: "/figma.png",
+    width: 50,
+    height: 50,
+  },
+  {
+    skill_name: "Goole Cloud",
+    Image: "/gcp.png",
+    width: 80,
+    height: 80,
+  },
+
+];
+
+export const tool_elog_race = [
+  {
+    skill_name: "Java Script",
+    Image: "/js.png",
+    width: 65,
+    height: 65,
+  },
+  {
+    skill_name: "React",
+    Image: "/react.png",
+    width: 80,
+    height: 80,
+  },
+  {
+    skill_name: "Next js 13",
+    Image: "/next.png",
+    width: 80,
+    height: 80,
+  },
+  {
+    skill_name: "Node js",
+    Image: "/node-js.png",
+    width: 80,
+    height: 80,
+  },
+  {
+    skill_name: "Express js",
+    Image: "/express.png",
+    width: 80,
+    height: 80,
+  },
+  {
+    skill_name: "My SQL",
+    Image: "/mysql.png",
+    width: 70,
+    height: 70,
+  },
+  {
+    skill_name: "Figma",
+    Image: "/figma.png",
+    width: 50,
+    height: 50,
+  },
+];
+
 export const Socials = [
   {
     name: "Instagram",
@@ -166,8 +333,8 @@ export const Socials = [
   },
   {
     name: "Facebook",
-    src: "/facebook.svg",
-    link: "https://www.facebook.com/people/Sandi-Irawan/pfbid02p3qZU9nSdcHr3oGUQMx1LVQLqH8kkjPUsowByT1px6JzCsqovyz1yQsqrfSZtDZUl/",
+    src: "/linkedin.svg",
+    link: "https://www.linkedin.com/in/sandi-irawan12/",
   },
   {
     name: "Github",
