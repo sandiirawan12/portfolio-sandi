@@ -30,7 +30,7 @@ const Partner = () => {
                     variants={slideInFromLeft(0.8)}
                     className="text-lg text-gray-400 my-3 max-w-[300px] sm:max-w-[600px] text-center"
                 >
-                    Currently, Eureka Logistic & Raja Cepat's client partners include Federal Oil, Motul, IDMARCO, Penerbit Erlangga, Super Indo, Unilever, Kitani, Sinbad, Cosmax, and DCH Auriga, etc.
+                    Currently, Eureka Logistic & Raja Cepat client partners include Federal Oil, Motul, IDMARCO, Penerbit Erlangga, Super Indo, Unilever, Kitani, Sinbad, Cosmax, and DCH Auriga, etc.
                 </motion.p>
             </div>
             <motion.div
