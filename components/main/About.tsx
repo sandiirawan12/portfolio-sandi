@@ -62,7 +62,7 @@ const About = () => {
                 {/* Profile Image */}
                 <motion.div className="w-full h-full flex justify-center items-center py-10">
                     <Image
-                        src="/fotoProfile.png"
+                        src="/fotoProfileNew.png"
                         alt="Foto Profile Masterdiskon"
                         height={300}
                         width={300}
